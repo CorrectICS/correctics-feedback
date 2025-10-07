@@ -9,4 +9,4 @@ or use the [ICS Validation API](https://correctics.com/api/) for programmatic ac
 
 ### 🧩 Postman
 Test the API instantly on Postman:  
-[Open CorrectICS API Collection](https://www.postman.com/charliewesley/workspace/correctics-api/collection/<id>)
+[Open CorrectICS API Collection](https://www.postman.com/supply-geoscientist-6447329-6774535/correctics/collection/cupyspf/correctics-api?action=share&creator=49086764/<id>)
